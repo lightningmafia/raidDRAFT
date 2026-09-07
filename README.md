@@ -3,7 +3,7 @@
 A native macOS word processor. Works offline. Your files stay on your Mac.
 
 **Mac App Store name:** White Draft  
-**Bundle ID:** `com.whitedraftpro.app`
+**Bundle ID:** `com.whitedraft.app`
 
 ## Support
 
