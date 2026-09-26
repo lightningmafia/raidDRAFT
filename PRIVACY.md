@@ -2,7 +2,7 @@
 
 **Last updated:** 26 September 2026
 
-Raid Draft is a Mac word processor that runs on your computer.
+Raid Draft is a Mac word processor in the Raid Bay product suite. It runs on your computer.
 
 ## What we collect
 
