@@ -1,7 +1,8 @@
 # Raid Draft
 
-A native macOS word processor. Works offline. Your files stay on your Mac.
+A native macOS word processor in the **Raid Bay** suite. Works offline. Your files stay on your Mac.
 
+**Product line:** Raid Bay → Raid Draft  
 **Mac App Store name:** Raid Draft  
 **Bundle ID:** `com.whitedraft.app`
 
