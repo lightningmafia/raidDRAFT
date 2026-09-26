@@ -1,8 +1,8 @@
-# White Draft Privacy Policy
+# Raid Draft Privacy Policy
 
-**Last updated:** 6 September 2026
+**Last updated:** 26 September 2026
 
-White Draft is a Mac word processor that runs on your computer.
+Raid Draft is a Mac word processor that runs on your computer.
 
 ## What we collect
 
@@ -18,10 +18,10 @@ These are stored in files you choose and in standard macOS app preferences (User
 
 ## Permissions
 
-White Draft uses the App Sandbox. It reads and writes only files you pick in Open/Save panels, and it can print.
+Raid Draft uses the App Sandbox. It reads and writes only files you pick in Open/Save panels, and it can print.
 
 The app does not require network access.
 
 ## Contact
 
-Questions about this policy: open an issue at [github.com/lightningmafia/white-draft](https://github.com/lightningmafia/white-draft/issues).
+Questions about this policy: open an issue at [github.com/lightningmafia/raid-draft](https://github.com/lightningmafia/raid-draft/issues).
