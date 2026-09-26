@@ -1,8 +1,8 @@
-# RAID DRAFT Privacy Policy
+# raidDRAFT Privacy Policy
 
 **Last updated:** 26 September 2026
 
-RAID DRAFT is a Mac word processor in the Raid Bay product suite. It runs on your computer.
+raidDRAFT is a Mac word processor in the Raid Bay product suite. It runs on your computer.
 
 ## What we collect
 
@@ -18,10 +18,10 @@ These are stored in files you choose and in standard macOS app preferences (User
 
 ## Permissions
 
-RAID DRAFT uses the App Sandbox. It reads and writes only files you pick in Open/Save panels, and it can print.
+raidDRAFT uses the App Sandbox. It reads and writes only files you pick in Open/Save panels, and it can print.
 
 The app does not require network access.
 
 ## Contact
 
-Questions about this policy: open an issue at [github.com/lightningmafia/RAID-DRAFT](https://github.com/lightningmafia/RAID-DRAFT/issues).
+Questions about this policy: open an issue at [github.com/lightningmafia/raidDRAFT](https://github.com/lightningmafia/raidDRAFT/issues).
